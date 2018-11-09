@@ -7,5 +7,6 @@ public class Hello {
         char test = 9;
         boolean isStudent = true;
         boolean hasJob = false;
+        int yourAge = 33;
     }
 }
