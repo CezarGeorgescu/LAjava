@@ -32,8 +32,31 @@ public class Hello {
 
         } if (prim) System.out.println("numarul este prim ");
 
+        int number = 0;
+        while(number < 3){
+            System.out.print(number++);
+        System.out.print(",");}
+        System.out.println();
+
+
+        int money = 5;
+        int chocolates = 0;
+        int chocolatePrice = 1;
+        do {chocolates++;
+        money -= chocolatePrice;} while(money > chocolatePrice);
+        System.out.println(chocolates);
 
 
 
-    }
+
+        int z=0;
+        char y=0;
+
+while (y<=127){
+    System.out.print(z++);
+    System.out.print(" ");
+    System.out.println(y++);}
+
+
+}
 }
