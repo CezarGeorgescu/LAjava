@@ -2,7 +2,7 @@ public class Hello {
     public static void main(String[] args) {
         int myAge;
 
-        float weight = 60.5f;
+       /* float weight = 60.5f;
         double height = 356.6;
         char gender = 'm';
         char test = 9;
@@ -47,7 +47,7 @@ public class Hello {
         System.out.println(chocolates);
 
 
-
+*/
 
         int z=0;
         char y=0;
